@@ -72,7 +72,6 @@ const Span = styled.span`
   margin-left: 20px;
   font-size: 20px;
   display: flex;
-  align-items: center;
 `
 
 const Chat = ({roomInfo}) => {
